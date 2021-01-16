@@ -16,7 +16,7 @@ from io import BytesIO
 
 
 # Connection
-database = MySQLdb.connect(host="localhost", user="root", passwd="8805", db="spacedb")
+database = MySQLdb.connect(host="localhost", user="root", passwd="****", db="spacedb")
 cur = database.cursor()
 
 print(curdir)
