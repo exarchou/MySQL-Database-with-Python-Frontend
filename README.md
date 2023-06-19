@@ -25,7 +25,7 @@ The entities are the Galaxy, the Black Hole, the Civilization, the Planetary Sys
 
 
 <p alling='center'>
-    <img src='images/diagram.png' width ='70%'>
+    <img src='images/diagram.png' width ='100%'>
 </p>
 
 
